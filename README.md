@@ -13,9 +13,61 @@ An app for school where people can go to find other people at their school who a
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+1. User Stories (Required and Optional)
 
+**Required Must-have Stories**
+
+ * User can register for an account
+ * User can login
+ * Filtered search system:
+     * User can search by schools
+     * User can search by people/classmates
+     * User can search by professor
+     * User can search by major
+ * User can register for particuluar classes that will show them who's in the class and their contact information (User's choice: they can skip this step and come back later)
+ * User can message other users (Users can choose to form group chats as well)
+ 
+**Optional Nice-to-have Stories**
+
+ * User can have study sessions
+     * have corresponding notifications
+ * customizable themes and avatars
+ 
+ 
+ 2. Screen Archetypes
+
+ * Login Page
+   * User can login
+ * Registration Account page
+   * User can register
+ * Search Page
+     * Users get to see a list of classes that match and their search results and be able to register for those classes
+     * Filtered search system:
+         * User can search by schools
+         * User can search by people/classmates
+         * User can search by professor
+         * User can search by major
+ * Message/Connect Page
+     * User can message other users (Users can choose to form group chats as well)
+ 
+
+3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Profile
+     * Shows what classes you are registered in
+ * Search
+ * Connect
+ 
+**Flow Navigation** (Screen to Screen)
+
+ * Login Page
+     * ==> Profile
+ * Registration Account page
+     * ==> Register for classes, if user chooses not to register their classes, then Search Page
+ * Search Page
+ * Message/Connect Page
 ---
 
 ### Wireframes
