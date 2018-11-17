@@ -71,7 +71,7 @@ An app for school where people can go to find other people at their school who a
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="http://g.recordit.co/UBIaPmejnk.gif" width=200><br>
 
 ---
 
