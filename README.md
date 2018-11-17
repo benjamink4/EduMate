@@ -72,6 +72,8 @@ An app for school where people can go to find other people at their school who a
 
 ### Wireframes
 <img src="http://g.recordit.co/UBIaPmejnk.gif" width=200><br>
+<img src="https://github.com/Group44Android/EduMate/raw/master/Screen%20Shot%202018-11-17%20at%206.21.06%20PM.png" width="250" />
+
 
 ---
 
