@@ -71,11 +71,11 @@ An app for school where people can go to find other people at their school who a
 ---
 
 ### Wireframes
-<img src="http://g.recordit.co/UBIaPmejnk.gif" width=200><br>
-<img src="https://github.com/Group44Android/EduMate/raw/master/Screen%20Shot%202018-11-17%20at%206.21.06%20PM.png" width="250" />
+<img src="https://i.imgur.com/LvSEnkS.gif" width=200><br>
+<img src="" width="250" />
 
 
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1da_V-5SpdpEoVuWBdy_7GQ7BlkAv11Tbc3-KDLaBGz8/edit?ts=5c03011d#slide=id.g498c0accd8_0_30
